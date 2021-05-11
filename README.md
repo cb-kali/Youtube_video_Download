@@ -1,7 +1,7 @@
 # Youtube Video Download
 This tool help you download youtube video for free.
 
-This tool use Python .
+This tool use Python 3.
 
 
 ## How to setpup
